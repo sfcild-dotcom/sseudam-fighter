@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sseudamftr-mdfpef4b.manus.space/sitemap.xml
